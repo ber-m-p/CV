@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Bernardo Moreno Peniche is a Medical Anthropologist at UC Berkeley & UCSF>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Landscape:** aesthetics and politics of world-making
+- **Science & Technology Studies:** science as culture, technology as cultural artifact
+- **Infectious diseases:** infection is relation
 
 {% include_relative _includes/education.md %}
 
