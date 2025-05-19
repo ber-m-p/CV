@@ -1,12 +1,10 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: Medical Anthropology PhD  # for type.education.
+    institution: University of California Berkeley & University of California San Francisco
+    department: Anthropology
+    years: 2019 - Present
     notes: In Progress
     
   - type: job
@@ -41,3 +39,4 @@ main:
 #    thesis: # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
 #    date: 
 #    notes:
+# thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
